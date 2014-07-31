@@ -1,4 +1,4 @@
 gitAlias
 ========
 
-My go-to [aliases] I use in Git
+(See aliases.txt)
